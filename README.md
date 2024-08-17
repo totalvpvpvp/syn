@@ -11,7 +11,7 @@ SYN机场对会员提供SYN Streaming企划，是基于EMBY Server 建立的公�
 ## SYN优惠码1111111
 
 使用 **letmein** 在 USUAL / PLUS / FROZE V2 上获得 8 折！
-11111111111111
+111111111111111
 ## SYN价格
 
 |套餐|USUAL V2|PLUS V2|USUAL V1|PLUS V1|STREAM|
