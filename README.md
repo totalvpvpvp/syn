@@ -8,7 +8,7 @@ SYN机场是一家 2023 年创立的新晋机场品牌，全称为 SYN Network�
 
 SYN机场对会员提供SYN Streaming企划，是基于EMBY Server 建立的公用影音媒体服务器，面向全体 SYN 客户开放。
 
-## SYN优惠码11111111111
+## SYN优惠码111111111111
 
 使用 **letmein** 在 USUAL / PLUS / FROZE V2 上获得 8 折！
 1111111111111111
